@@ -1,0 +1,8 @@
+{
+  "name": "Wildlife Adventure",
+  "description": "An immersive, atmospheric forest exploration portal showcasing majestic wildlife, interactive species insights, high-contrast forest audio visualizers, and virtual trail logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
